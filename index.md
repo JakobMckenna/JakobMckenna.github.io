@@ -15,8 +15,10 @@ _Major: Computer Science_
 Programming Practices, Object Orientation, Introduction to Computer Systems, Human
 Computer Interaction, Technical Communication in Computer Science, Databases Concepts
 and Usage.
+
 _Minor: Statistics_
 ▪ Basic Statistical Analysis 1, Basic Statistical Analysis 2, Principles of Data Collection.
+
 _Minor: Economics_
 ▪ Introduction to Microeconomic Principles, Introduction to Macroeconomic Principles,
 Microeconomic Theory 1, Macroeconomic Theory 1, Quantitative Methods in Economics.
