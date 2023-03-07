@@ -9,6 +9,7 @@ jakobmckenna.com / (204) 296-4115 / Winnipeg, MB
 # Education
 
 **University of Manitoba (2020 - Present)**
+
 _Major: Computer Science_
 ▪ Introductory Computer Science, Analysis of Algorithms, Data Structures and Algorithms,
 Programming Practices, Object Orientation, Introduction to Computer Systems, Human
