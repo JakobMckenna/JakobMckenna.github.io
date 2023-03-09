@@ -1,4 +1,4 @@
-# How to create a hosted website on GitGub pages
+# How to create a hosted website on GitHub pages
 
 ## Purpose
 #### The purpose of this tutorial is to:
