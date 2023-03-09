@@ -10,13 +10,34 @@
 #### Before starting this tutorial users must first have:
 * A resume formatted in markdown
 * A GitHub account
-* Know the basics of markdown (If you need some help, check out [this](https://www.markdowntutorial.com) tutorial
-* Have a markdown editor (I recommend [MacDown](https://macdown.uranusjr.com) for mac users
-* Be willing to learn! 
+* Know the basics of markdown (If you need some help, check out [this](https://www.markdowntutorial.com) tutorial)
+* Have a markdown editor (I recommend [MacDown](https://macdown.uranusjr.com) for mac users)
 
 I won't be going over how to create a proper resume in this guide, but if you need some help there are plenty of online tools that can help!
 
 ## Instructions
+* For this section, it is assumed that you already have an GitHub account
+
+#### Step one: Creating a repository for github pages
+1. Log into your github account 
+2. At the top right of GitHub, click the + button, then select "Create new repository" 
+3. Name the repository the same name as your GitHub account
+* If you name your repository the same name as your GitHub account, then GitHub will automatically create your website
+4. Edit the settings to your liking
+* I recommend keeping your repository public so that anybody can see it
+* Adding a ReadMe is always helpful, even if it just does some simple explainations
+5. Click on "Create Repository" and you are done this step!
+
+####Step two: Uploading your files
+* By now you should have:
+* Created repository with your GitHub name as its name
+* A resume in Markdown language
+
+* Next, we can upload our resume to the repository by following these steps:
+1. 
+
+
+
 1. Create a new repository with your github username as the name
 2. Upload your three files: _config.yml, readme.md, and resume.md
 3. Your site will be generared using github pages
