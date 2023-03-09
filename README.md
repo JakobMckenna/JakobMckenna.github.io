@@ -94,7 +94,9 @@ I won't be going over how to create a proper resume in this guide, but if you ne
 
 
 ### Extra: Principles to keep in mind
-* Using Markdown is good because 
+* Andrew Etter's [Book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) goes into great detail on topics such as using Markup or generating static websites. Here are some key takeaways that are useful:
+
+1. Using lightweight langauges (like Markdown) is optimal because they are simple and can be used across all systems. 
 
 ### More resources:
 * Learn about Markdown: [Markdown tutorial](https://www.markdowntutorial.com)
