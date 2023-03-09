@@ -93,10 +93,12 @@ I won't be going over how to create a proper resume in this guide, but if you ne
 * After commiting the changes, your new theme should be active after a few minutes. 
 
 
-### Extra: Principles to keep in mind
+### Bonus: Principles to keep in mind
 * Andrew Etter's [Book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) goes into great detail on topics such as using Markup or generating static websites. Here are some key takeaways that are useful:
 
-1. Using lightweight langauges (like Markdown) is optimal because they are simple and can be used across all systems. 
+1. Using lightweight langauges (like Markdown) is optimal because they are simple and can be used across all systems. Unlike older tools such as XML, Markdown is easily understandable. This leads to everybody on a team being able to contribute, which is why I used Markdown in this tutorial.
+
+2. For the sample reason (that they are simple) static websites are also perfered. While dynamic websites can be fancy, they are also complicated to set up. Static websites are fairly easy to create, and using a tool such as GitHub pages make it even easier. It is also useful that we can update our website almost instantly. Hosting a website locally is the most optimal, as you have total control. 
 
 ### More resources:
 * Learn about Markdown: [Markdown tutorial](https://www.markdowntutorial.com)
