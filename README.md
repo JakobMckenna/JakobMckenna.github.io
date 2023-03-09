@@ -2,9 +2,9 @@
 
 ## Purpose
 #### The purpose of this tutorial is to :
-1. guide you on how to create your own website hosted on github pages
-2. show you how to add a theme to your website
-3. educate on the principles of good technical writing
+###### 1. Guide you on how to create your own website hosted on github pages
+###### 2. Show you how to add a theme to your website
+###### 3. Educate on the principles of good technical writing
 
 ## Prerequisites 
 #### Before starting this tutorial users must first have:
@@ -68,16 +68,16 @@ I won't be going over how to create a proper resume in this guide, but if you ne
 * Luckily GitHub pages allows us to add a theme fairly easily, as long as we use one of their [appoved](https://pages.github.com/themes/) themes
 
 * To add a Jekyll theme:
-1. Create a new file called config.YML 
-2. Upload it to your repository the same way you did to the index.md file
-3. Add the required text to your config.YML file. This _should_ only be one or two lines.
+##### 1. Create a new file called config.YML 
+##### 2. Upload it to your repository the same way you did to the index.md file
+##### 3. Add the required text to your config.YML file. This _should_ only be one or two lines.
 * The required text can be found [here](https://pages.github.com/themes/), just select a theme that you like. 
-* For example, I am using the ______ theme, so I added this:
+* For example, I am using the tactile theme, so I added this: remote_theme: pages-themes/tactile@v0.2.0
 
 * And this is what my resume looks like: 
 * (Add pic here)
 
-4. Commit the changes
+###### 4. Commit the changes
 
 * After commiting the changes, your new theme should be active after a few minutes. 
 
@@ -86,15 +86,20 @@ I won't be going over how to create a proper resume in this guide, but if you ne
 * Using Markdown is good because 
 
 #### More resources:
-Learn about Markdown: [Markdown tutorial](https://www.markdowntutorial.com)
-Read more about principles of technical communication: [Etter's book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
-Read the GitHub pages tutorial: [Github pages tutorial](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
-Learn which Jekyll themes can be used on GitHub pages: [List of Jekyll themes](https://pages.github.com/themes/)
+*Learn about Markdown: [Markdown tutorial](https://www.markdowntutorial.com)
+
+*Read more about principles of technical communication: [Etter's book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+
+*Read the GitHub pages tutorial: [Github pages tutorial](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
+
+*Learn which Jekyll themes can be used on GitHub pages: [List of Jekyll themes](https://pages.github.com/themes/)
 
 ## Authors/Ackowledgements
-Midnight template is used
+* Author: Jakob McKenna
 
-Andrew Etters book is used: 
+* The Jekyll template tactile was used in this tutorial 
+
+* Many concepts of Andrew Etter's [book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) are used throughout this guide
 
 ## FAQS
 
