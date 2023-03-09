@@ -22,6 +22,7 @@ I won't be going over how to create a proper resume in this guide, but if you ne
 #### Step one: Creating a repository for github pages
 1. Log into your github account 
 2. At the top right of GitHub, click the + button, then select "Create new repository" 
+* <img width="251" alt="Screen Shot 2023-03-09 at 2 46 52 PM" src="https://user-images.githubusercontent.com/90879131/224153653-9e8b9125-3cde-429d-b902-9ea7190a8c34.png">
 3. Name the repository the same name as your GitHub account
 * If you name your repository the same name as your GitHub account, then GitHub will automatically create your website
 4. Edit the settings to your liking
