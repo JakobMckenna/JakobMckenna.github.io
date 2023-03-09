@@ -43,7 +43,9 @@ I won't be going over how to create a proper resume in this guide, but if you ne
 ##### 3. Click on:
 * Add file
 * Upload file
+* <img width="287" alt="Screen Shot 2023-03-09 at 3 04 15 PM" src="https://user-images.githubusercontent.com/90879131/224157535-102cdf97-e8a9-4cc8-b69a-6b04c87226b5.png">
 ##### 4. Drag your file to upload it
+* <img width="575" alt="Screen Shot 2023-03-09 at 3 05 29 PM" src="https://user-images.githubusercontent.com/90879131/224157743-2ce44588-6e73-4390-9650-90fdc98a53e1.png">
 ##### 5. Select "Commit changes" 
 
 * And your resume is now uploaded to your repository
@@ -56,12 +58,15 @@ I won't be going over how to create a proper resume in this guide, but if you ne
 * Now, we can view the website hosted on GitHub Pages by doing this:
 ##### 1. Make sure you are still on the home page for your repository
 ##### 2. Click the Settings button 
+* <img width="482" alt="Screen Shot 2023-03-09 at 3 06 12 PM" src="https://user-images.githubusercontent.com/90879131/224157888-779060cc-95dc-4dc5-9d09-0e4633d2a5f2.png">
 ##### 3. On the left of you screen, select GitHub Pages
+* <img width="941" alt="Screen Shot 2023-03-09 at 3 06 51 PM" src="https://user-images.githubusercontent.com/90879131/224158001-6e47b1b4-42ed-499c-b31f-079f9d08536b.png">
+
 ##### 4. Under source, select main as the branch type
 ##### 5. Your website will then auto generate
 
 ##### 6. To view your website, simply click on the link:
-* (Add pic here)
+* <img width="777" alt="Screen Shot 2023-03-09 at 3 07 42 PM" src="https://user-images.githubusercontent.com/90879131/224158121-2195dbb1-f5d4-412e-9e24-0a22cf4da337.png">
 
 * Warning: while hosting on GitHub pages is much easier than hosting the website locally, GitHub is sometimes down, so you should not rely on it to keep your website constantly active. 
 
