@@ -86,10 +86,10 @@ I won't be going over how to create a proper resume in this guide, but if you ne
 * After commiting the changes, your new theme should be active after a few minutes. 
 
 
-#### Extra: Principles to keep in mind
+### Extra: Principles to keep in mind
 * Using Markdown is good because 
 
-#### More resources:
+### More resources:
 *Learn about Markdown: [Markdown tutorial](https://www.markdowntutorial.com)
 
 *Read more about principles of technical communication: [Etter's book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
@@ -107,10 +107,14 @@ I won't be going over how to create a proper resume in this guide, but if you ne
 
 ## FAQS
 
-1. Why is markdown considered better than a word processor? 
-Answer: Markdown is considered better than a word processer becuase it is much faster and easier to edit. 
+1. Why is Markdown considered better than a word processor? 
+* Answer: Markdown is considered better than a word processer for a few reasons:
 
-2. How do I see which Jeykell templates can be used on GitHub pages?
-Answer: Look at this link to see which templates can be used: 
+* It is faster than a word processor
+* It is more versitile and can be used over many different systems
+* It allows more freedom but is still very simple
+
+2. Can all Jeykell templates can be used on GitHub pages?
+* Answer: No. Only certain Jekyll themes are set to work with GitHub pages. To see which ones you can use, click [here](https://pages.github.com/themes/)
 
 
