@@ -78,12 +78,14 @@ I won't be going over how to create a proper resume in this guide, but if you ne
 * To add a Jekyll theme:
 ##### 1. Create a new file called config.YML 
 ##### 2. Upload it to your repository the same way you did to the index.md file
+* <img width="829" alt="Screen Shot 2023-03-09 at 3 21 55 PM" src="https://user-images.githubusercontent.com/90879131/224162759-f71eef2c-8d24-4390-9eae-ba250948b904.png">
 ##### 3. Add the required text to your config.YML file. This _should_ only be one or two lines.
 * The required text can be found [here](https://pages.github.com/themes/), just select a theme that you like. 
 * For example, I am using the tactile theme, so I added this: remote_theme: pages-themes/tactile@v0.2.0
+* <img width="1161" alt="Screen Shot 2023-03-09 at 3 22 01 PM" src="https://user-images.githubusercontent.com/90879131/224162941-29964aa0-2540-4d48-92db-333bf158f69f.png">
 
 * And this is what my resume looks like: 
-* <img width="935" alt="Tut_SS1" src="https://user-images.githubusercontent.com/90879131/224152430-3d50c7a3-5705-4868-8283-8d31aa0cccfd.png">
+* <img width="649" alt="Screen Shot 2023-03-09 at 3 23 13 PM" src="https://user-images.githubusercontent.com/90879131/224162974-613bd100-a2e6-4938-9de2-646c2f0eed02.png">
 
 
 ##### 4. Commit the changes
