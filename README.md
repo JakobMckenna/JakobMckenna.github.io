@@ -25,9 +25,11 @@ I won't be going over how to create a proper resume in this guide, but if you ne
 * <img width="251" alt="Screen Shot 2023-03-09 at 2 46 52 PM" src="https://user-images.githubusercontent.com/90879131/224153653-9e8b9125-3cde-429d-b902-9ea7190a8c34.png">
 3. Name the repository the same name as your GitHub account
 * If you name your repository the same name as your GitHub account, then GitHub will automatically create your website
+* <img width="479" alt="Screen Shot 2023-03-09 at 2 48 31 PM" src="https://user-images.githubusercontent.com/90879131/224153983-42e80a73-7d20-47b2-a79a-3cdef11ed404.png">
 4. Edit the settings to your liking
 * I recommend keeping your repository public so that anybody can see it
 * Adding a ReadMe is always helpful, even if it just does some simple explainations
+* <img width="781" alt="Screen Shot 2023-03-09 at 2 49 39 PM" src="https://user-images.githubusercontent.com/90879131/224154177-bd92eb1f-0488-4eb0-bb9c-af72ca026500.png">
 5. Click on "Create Repository" and you are done this step!
 
 #### Step two: Uploading your files
