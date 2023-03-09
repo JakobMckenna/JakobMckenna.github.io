@@ -19,53 +19,53 @@ I won't be going over how to create a proper resume in this guide, but if you ne
 * For this section, it is assumed that you already have an GitHub account and a resume in Markdown
 * If have not already created an account, [here](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) is a tutorial
 
-#### Step one: Creating a repository for github pages
-1. Log into your github account 
-2. At the top right of GitHub, click the + button, then select "Create new repository" 
+### Step one: Creating a repository for github pages
+##### 1. Log into your github account 
+##### 2. At the top right of GitHub, click the + button, then select "Create new repository" 
 * <img width="251" alt="Screen Shot 2023-03-09 at 2 46 52 PM" src="https://user-images.githubusercontent.com/90879131/224153653-9e8b9125-3cde-429d-b902-9ea7190a8c34.png">
-3. Name the repository the same name as your GitHub account
+##### 3. Name the repository the same name as your GitHub account
 * If you name your repository the same name as your GitHub account, then GitHub will automatically create your website
 * <img width="479" alt="Screen Shot 2023-03-09 at 2 48 31 PM" src="https://user-images.githubusercontent.com/90879131/224153983-42e80a73-7d20-47b2-a79a-3cdef11ed404.png">
-4. Edit the settings to your liking
+##### 4. Edit the settings to your liking
 * I recommend keeping your repository public so that anybody can see it
 * Adding a ReadMe is always helpful, even if it just does some simple explainations
 * <img width="781" alt="Screen Shot 2023-03-09 at 2 49 39 PM" src="https://user-images.githubusercontent.com/90879131/224154177-bd92eb1f-0488-4eb0-bb9c-af72ca026500.png">
-5. Click on "Create Repository" and you are done this step!
+##### 5. Click on "Create Repository" and you are done this step!
 
-#### Step two: Uploading your files
+### Step two: Uploading your files
 * By now you should have:
 * Created repository with your GitHub name as its name
 * A resume in Markdown language
 
 * Next, we can upload our resume to the repository by following these steps:
-1. Save your resume as index.md 
-2. Navigate to your created repository 
-3. Click on:
+##### 1. Save your resume as index.md 
+##### 2. Navigate to your created repository 
+##### 3. Click on:
 * Add file
 * Upload file
-4. Drag your file to upload it
-5. Select "Commit changes" 
+##### 4. Drag your file to upload it
+##### 5. Select "Commit changes" 
 
 * And your resume is now uploaded to your repository
 
-#### Step three: Viewing your website
+### Step three: Viewing your website
 * In the last two steps you should have:
 * Created a github repository
 * Uploaded your resume to your repository
 
 * Now, we can view the website hosted on GitHub Pages by doing this:
-1. Make sure you are still on the home page for your repository
-2. Click the Settings button 
-3. On the left of you screen, select GitHub Pages
-4. Under source, select main as the branch type
-5. Your website will then auto generate
+##### 1. Make sure you are still on the home page for your repository
+##### 2. Click the Settings button 
+##### 3. On the left of you screen, select GitHub Pages
+##### 4. Under source, select main as the branch type
+##### 5. Your website will then auto generate
 
-6. To view your website, simply click on the link:
+##### 6. To view your website, simply click on the link:
 * (Add pic here)
 
 * Warning: while hosting on GitHub pages is much easier than hosting the website locally, GitHub is sometimes down, so you should not rely on it to keep your website constantly active. 
 
-#### Step four: Using Jekyll to customize your website
+### Step four: Using Jekyll to customize your website
 * Using themes is not a necessity, but who woulnd't want their resume to look even better!
 
 * Luckily GitHub pages allows us to add a theme fairly easily, as long as we use one of their [appoved](https://pages.github.com/themes/) themes
@@ -81,7 +81,7 @@ I won't be going over how to create a proper resume in this guide, but if you ne
 * <img width="935" alt="Tut_SS1" src="https://user-images.githubusercontent.com/90879131/224152430-3d50c7a3-5705-4868-8283-8d31aa0cccfd.png">
 
 
-###### 4. Commit the changes
+##### 4. Commit the changes
 
 * After commiting the changes, your new theme should be active after a few minutes. 
 
