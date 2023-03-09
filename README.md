@@ -66,7 +66,7 @@ I won't be going over how to create a proper resume in this guide, but if you ne
 ##### 5. Your website will then auto generate
 
 ##### 6. To view your website, simply click on the link:
-* <img width="777" alt="Screen Shot 2023-03-09 at 3 07 42 PM" src="https://user-images.githubusercontent.com/90879131/224158121-2195dbb1-f5d4-412e-9e24-0a22cf4da337.png">
+* ![Screen Recording 2023-03-09 at 3 10 05 PM](https://user-images.githubusercontent.com/90879131/224162144-1ccdc0b7-ddf9-491e-bdae-316e8594207c.gif)
 
 * Warning: while hosting on GitHub pages is much easier than hosting the website locally, GitHub is sometimes down, so you should not rely on it to keep your website constantly active. 
 
