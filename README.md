@@ -1,22 +1,20 @@
-# JakobMckenna.github.io
-3040 A2
-
 # How to create a hosted website on github pages
 
 ## Purpose
-The purpose of this tutorial is to guide users on how to create there own websites hosted on github pages
+#### The purpose of this tutorial is to :
+1. guide you on how to create your own website hosted on github pages
+2. show you how to add a theme to your website
+3. educate on the principles of good technical writing
 
-The secondary purpose is to encorapte Etter's techniques for good technical writing
-
-## PreReqs
-Users must first:
+## Prerequisites 
+#### Before starting this tutorial users must first have:
 * A resume formatted in markdown
-* Create a github account
-* Know how to write in markdown
-* Have a markdown editor
-* Know the basics of jekyll
+* A GitHub account
+* Know the basics of markdown (If you need some help, check out [this](https://www.markdowntutorial.com) tutorial
+* Have a markdown editor (I recommend [MacDown](https://macdown.uranusjr.com) for mac users
+* Be willing to learn! 
 
-If you don't know how to write in markdown, check out this link: 
+I won't be going over how to create a proper resume in this guide, but if you need some help there are plenty of online tools that can help!
 
 ## Instructions
 1. Create a new repository with your github username as the name
