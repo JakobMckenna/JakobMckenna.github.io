@@ -75,7 +75,7 @@ I won't be going over how to create a proper resume in this guide, but if you ne
 * For example, I am using the tactile theme, so I added this: remote_theme: pages-themes/tactile@v0.2.0
 
 * And this is what my resume looks like: 
-* ![Picture of resume](file:///Users/jakobmckenna/Desktop/Tut_SS1.png)
+* <img width="935" alt="Tut_SS1" src="https://user-images.githubusercontent.com/90879131/224152430-3d50c7a3-5705-4868-8283-8d31aa0cccfd.png">
 
 
 ###### 4. Commit the changes
