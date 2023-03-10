@@ -21,7 +21,7 @@ I won't be going over how to create a proper resume in this guide, but if you ne
 
 ### Step one: Creating a repository for GitHub pages
 ##### 1. Log into your github account 
-##### 2. At the top right of GitHub, click the + button, then select "Create new repository" 
+##### 2. At the top right of GitHub, click the + button, then select "New repository" 
 * <img width="251" alt="Screen Shot 2023-03-09 at 2 46 52 PM" src="https://user-images.githubusercontent.com/90879131/224153653-9e8b9125-3cde-429d-b902-9ea7190a8c34.png">
 ##### 3. Name the repository the same name as your GitHub account
 * If you name your repository the same name as your GitHub account, then GitHub will automatically create your website
@@ -34,7 +34,7 @@ I won't be going over how to create a proper resume in this guide, but if you ne
 
 ### Step two: Uploading your files
 * By now you should have:
-* Created repository with your GitHub name as its name
+* A created repository with your GitHub name as its name
 * A resume in Markdown language
 
 * Next, we can upload our resume to the repository by following these steps:
@@ -94,7 +94,7 @@ I won't be going over how to create a proper resume in this guide, but if you ne
 
 
 ### Bonus: Principles to keep in mind
-* Andrew Etter's [Book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) goes into great detail on topics such as using Markup or generating static websites. Here are some key takeaways that are useful:
+* Andrew Etter's [Book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) goes into great detail on topics such as using Markdown or generating static websites. Here are some key takeaways that are useful:
 
 1. Using lightweight langauges (like Markdown) is optimal because they are simple and can be used across all systems. Unlike older tools such as XML, Markdown is easily understandable. This leads to everybody on a team being able to contribute, which is why I used Markdown in this tutorial.
 
@@ -111,6 +111,7 @@ I won't be going over how to create a proper resume in this guide, but if you ne
 
 ## Authors/Ackowledgements
 * Author: Jakob McKenna
+* Group Member: Zhihao Wang 
 
 * The Jekyll template tactile was used in this tutorial 
 
